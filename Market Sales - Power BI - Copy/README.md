@@ -2,7 +2,7 @@
 
 ##  Overview  
 This is my first **Power BI Data Visualization Project** :
-The dashboard of two pages provides insights into revenue, product sales, and customer preferences.  
+The dashboard which has two pages provides insights into revenue, product sales, and customer preferences.  
 
 ##  Features  
 -  **Sales Trends Analysis** (Revenue by day, hour, and month)  
