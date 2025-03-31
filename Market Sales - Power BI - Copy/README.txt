@@ -12,10 +12,10 @@ The dashboard provides insights into revenue, product sales, and customer prefer
 
 ##  Screenshots  
 ### **Page 1: Sales Overview**  
-![Dashboard Page  1](link-to-screenshot1)  
+![Dashboard Page  1](Market Sales - Power BI - Copy/Dashboard - Page 1.png) 
 
 ### **Page 2: Customer & Product Insights**  
-![Dashboard Page 2](link-to-screenshot2)  
+![Dashboard Page 2](Market Sales - Power BI - Copy/Dashboard - Page 2.png)  
 
 ## 🛠 Tools Used  
 - **Power BI** (Data visualization)  
